@@ -30,4 +30,4 @@ copyright: 'Copyright &copy; 2022 seye11'
 
 # Contents
 nav:
-  - 简介: index.md
+  - 简介: docs/index.md
