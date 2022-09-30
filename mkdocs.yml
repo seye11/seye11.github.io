@@ -1,0 +1,33 @@
+# Project Information
+site_name: seye11's wiki
+site_descripition: 记录竞赛、技术、生活上的一些思考。
+site_author: seye11
+site_url: https://seye11.github.io
+
+# Repository
+repo_name: 'seye11/seye11.github.io'
+repo_url: 'https://github.com/seye11/seye11.github.io'
+
+# Theme
+theme:
+  name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  language: 'zh'
+extra:
+  search:
+    language: 'jp'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  include_search_page: false
+  search_index_only: true
+  favicon: 'favicon.ico'
+
+# Copyright
+copyright: 'Copyright &copy; 2022 seye11'
+
+# Contents
+nav:
+  - 简介: index.md
