@@ -64,6 +64,8 @@ nav:
     # - leetcode:
   - 工程:
     - engneering/index.md
+    - CMU15-445:
+      - 课程信息: engneering/cmu15-445/cmu15-445.md
   - 工作:
     - work/index.md
   - 生活:
