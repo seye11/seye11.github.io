@@ -70,8 +70,6 @@ nav:
     - life/index.md
   - 关于:
     - about/index.md
-    - 我: about/me.md
-    - 本站: about/site.md
 extra:
   social: # icons
     - icon: fontawesome/brands/github
