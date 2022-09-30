@@ -7,7 +7,7 @@ site_url: https://seye11.github.io
 # Repository
 repo_name: 'seye11/seye11.github.io'
 repo_url: 'https://github.com/seye11/seye11.github.io'
-edit_uri: edit/master/docs
+edit_uri: blob/master/docs
 
 # Theme
 theme:
@@ -46,24 +46,30 @@ extra:
 # Copyright
 copyright: 'Copyright &copy; 2022 seye11'
 
-# Contents
+# Contents、
 nav:
-  - 简介: index.md
+  - 简介: 
+    - index.md
     - 关于我: intro/me.md
   - 算法: 
-    - 数据结构:
-    - 动态规划:
-    - 计算几何:
-    - 字符串:
-    - 图论:
-    - 数论:
-    - codeforces:
-    - atcoder:
-    - leetcode:
+    - algorithm/index.md
+    # - 数据结构:
+    # - 动态规划:
+    # - 计算几何:
+    # - 字符串:
+    # - 图论:
+    # - 数论:
+    # - codeforces:
+    # - atcoder:
+    # - leetcode:
   - 工程:
+    - engneering/index.md
   - 工作:
+    - work/index.md
   - 生活:
+    - life/index.md
   - 关于:
+    - about/index.md
     - 我: about/me.md
     - 本站: about/site.md
 extra:
