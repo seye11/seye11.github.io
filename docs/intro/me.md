@@ -1,2 +1,2 @@
 # 自我介绍
-你好，我叫孙寅，就读于浙江科技学院软件工程专业，是一位退役的ACMer，算法竞赛最好成绩为[ICPC银](https://board.xcpcio.com/icpc/46th/nanjing?organization=%5B%22%E6%B5%99%E6%B1%9F%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%22%5D)，在字节跳动实习过半年，目前是个无业游民（找工作中）。
+你好，我叫孙寅，就读于浙江科技学院软件工程专业，是一位退役的ACMer，算法竞赛最好成绩为[ICPC银](https://board.xcpcio.com/icpc/46th/nanjing?organization=%5B%22%E6%B5%99%E6%B1%9F%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%22%5D)，在字节跳动实习过半年，目前暂时是个无业游民。
