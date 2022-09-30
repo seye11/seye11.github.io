@@ -49,6 +49,23 @@ copyright: 'Copyright &copy; 2022 seye11'
 # Contents
 nav:
   - 简介: index.md
+    - 关于我: intro/me.md
+  - 算法: 
+    - 数据结构:
+    - 动态规划:
+    - 计算几何:
+    - 字符串:
+    - 图论:
+    - 数论:
+    - codeforces:
+    - atcoder:
+    - leetcode:
+  - 工程:
+  - 工作:
+  - 生活:
+  - 关于:
+    - 我: about/me.md
+    - 本站: about/site.md
 extra:
   social: # icons
     - icon: fontawesome/brands/github
