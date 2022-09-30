@@ -77,12 +77,12 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/seye11
       name: GitHub | seye11
-    - icon: fontawesome/brands/zhihu
-      link: https://www.zhihu.com/people/meulsama
-      name: Zhihu | Meul
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/5782743
       name: Bilibili | Meul # 鼠标悬浮提示
+    - icon: fontawesome/brands/zhihu
+      link: https://www.zhihu.com/people/meulsama
+      name: Zhihu | Meul
 
 
 # [Extensions]
