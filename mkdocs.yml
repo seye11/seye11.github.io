@@ -7,7 +7,7 @@ site_url: https://seye11.github.io
 # Repository
 repo_name: 'seye11/seye11.github.io'
 repo_url: 'https://github.com/seye11/seye11.github.io'
-edit_uri: edit/main/docs
+edit_uri: edit/master/docs
 
 # Theme
 theme:
