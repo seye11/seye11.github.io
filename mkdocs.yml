@@ -59,7 +59,8 @@ nav:
     # - 字符串:
     # - 图论:
     # - 数论:
-    # - codeforces:
+    - codeforces:
+      - CF824: algorithm/codeforces/CF824.md
     # - atcoder:
     # - leetcode:
   - 工程:
