@@ -61,6 +61,8 @@ nav:
     # - 数论:
     - codeforces:
       - CF824: algorithm/codeforces/CF824.md
+    - insights
+      - For The Young: algorithm/insights/for_the_young.md
     # - atcoder:
     # - leetcode:
   - 工程:
